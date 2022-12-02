@@ -18,7 +18,7 @@
 ### Hi there. I'm Gianmarco 👋
 
 <!--
-**misternessuno/i_am_a_datascientist** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gianmarco-tucceri-cimini/gianmarco-tucceri-cimini** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 * 🔭 I’m currently working on a course in Data Science & AI
@@ -42,16 +42,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-* 📫 How to reach me:
-    * [LinkedIn](https://www.linkedin.com/in/gianmarcotuccericimini/)
 
 ---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gianmarco-tucceri-cimini&theme=dark)](https://git.io/streak-stats)
-
-
-![Gianmarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=misternessuno)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmarco-tucceri-cimini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
