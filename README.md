@@ -54,4 +54,4 @@
 
 ![Gianmarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=misternessuno)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misternessuno)](https://github.com/misternessuno/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmarco-tucceri-cimini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
