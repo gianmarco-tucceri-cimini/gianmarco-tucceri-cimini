@@ -10,6 +10,6 @@
 * 📫 How to reach me:
     * [LinkedIn](https://www.linkedin.com/in/gianmarcotuccericimini/)
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=misternessuno)
+![Gianmarco's GitHub stats](https://github-readme-stats.vercel.app/api?username=misternessuno)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misternessuno)](https://github.com/misternessuno/github-readme-stats)
