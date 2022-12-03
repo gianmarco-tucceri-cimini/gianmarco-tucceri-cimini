@@ -23,6 +23,7 @@
 
 * 🔭 I’m currently working on a course in Data Science & AI
 * 🌱 I’m currently learning Visual Studio Code
+* 🚀 I'm currently working on a prediction model on Autism Spectrum Desease
 
 ---
 
