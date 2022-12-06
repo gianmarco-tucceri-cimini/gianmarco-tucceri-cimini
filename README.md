@@ -15,7 +15,7 @@
 
 ---
 
-### Hi there. I'm Gianmarco 👋
+### 👋 Hi there. I'm Gianmarco :
 
 <!--
 **gianmarco-tucceri-cimini/gianmarco-tucceri-cimini** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
