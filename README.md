@@ -23,7 +23,7 @@
 
 * 🔭 I’m currently attending a scholarship Master in Data Science & AI
 * 🌱 I’m currently learning Visual Studio Code
-* 🚀 I'm currently working on a prediction model on [Autism Spectrum Desease]([https://www.linkedin.com/in/andrea-cadeddu](https://github.com/gianmarco-tucceri-cimini/Autism-Spectrum-Diagnosis))
+* 🚀 I'm currently working on a prediction model on [Autism Spectrum Desease](https://github.com/gianmarco-tucceri-cimini/Autism-Spectrum-Diagnosis)
 
 ---
 
