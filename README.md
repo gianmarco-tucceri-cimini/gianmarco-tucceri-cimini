@@ -26,6 +26,14 @@
 * 🚀 I'm currently working on a prediction model on [Autism Spectrum Desease](https://github.com/gianmarco-tucceri-cimini/Autism-Spectrum-Diagnosis)
 
 ---
+### 🎖️ Certificates :
+* [IBM Skills Network - Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/records/879U6UTVLFKT)
+* [IBM Skills Network - Tools for Data Science](https://www.coursera.org/account/accomplishments/records/XJQNT5KXK8Q2)
+* [IBM Skills Network - Data Science Methodology](https://www.coursera.org/account/accomplishments/records/E6RJZKS2REBD)
+* [IBM Skills Network - Python Project for Data Science](https://www.coursera.org/account/accomplishments/records/Q4MPB2HTB6KS)
+* [IBM Skills Network - What is Data Science?](https://www.coursera.org/account/accomplishments/records/U4SKCD3HY7Y7)
+* [IBM Skills Network - Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/records/YJ6M2GW2MQW9)
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
