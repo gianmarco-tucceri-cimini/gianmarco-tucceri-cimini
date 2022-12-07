@@ -23,7 +23,7 @@
 
 * 🔭 I’m currently attending a Master in Data Science & AI (1/15 sholarship winner)
 * 🌱 I’m currently learning Visual Studio Code
-* 🚀 I'm currently working on a prediction model on [Autism Spectrum Desease](https://github.com/gianmarco-tucceri-cimini/Autism-Spectrum-Diagnosis)
+* 🚀 I'm currently working on [Autism Spectrum Diagnosis](https://github.com/gianmarco-tucceri-cimini/Autism-Spectrum-Diagnosis) and [Mental Health Diagnosis](https://github.com/gianmarco-tucceri-cimini/Mental-Health-Diagnosis)
 
 ---
 ### 🎖️ Certificates :
