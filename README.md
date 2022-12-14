@@ -21,7 +21,7 @@
 **gianmarco-tucceri-cimini/gianmarco-tucceri-cimini** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-* 🔭 I’m currently attending a Master in Data Science & AI (1/15 sholarship winner)
+* 🔭 I’m currently attending a Master in Data Science & AI (1/15 scholarship winner)
 * 🌱 I’m currently learning Visual Studio Code
 * 🚀 I'm currently working on [Autism Spectrum Diagnosis](https://github.com/gianmarco-tucceri-cimini/Autism-Spectrum-Diagnosis) and [Mental Health Diagnosis](https://github.com/gianmarco-tucceri-cimini/Mental-Health-Diagnosis)
 
