@@ -23,7 +23,7 @@
 
 * 🔭 I’m currently attending a Master in Data Science & AI (1/15 scholarship winner)
 * 🌱 I’m currently learning Visual Studio Code
-* 🚀 I'm currently working on [news4lazies](https://github.com/gianmarco-tucceri-cimini/news4lazies) and [Mental Health Diagnosis](https://github.com/gianmarco-tucceri-cimini/Mental-Health-Diagnosis)
+* 🚀 I'm currently working on [news4lazies](https://github.com/gianmarco-tucceri-cimini/news4lazies) and [Forecasting Bitcoin Price]([https://github.com/gianmarco-tucceri-cimini/Mental-Health-Diagnosis](https://github.com/gianmarco-tucceri-cimini/forecasting-btc))
 
 ---
 ### 🎖️ Certificates :
