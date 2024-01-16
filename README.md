@@ -27,6 +27,7 @@
 
 ---
 ### 🎖️ Certificates :
+* [Data Science and AI Full Time Master](https://certificates.talentgarden.com/8b19c97a-0ef9-4654-a116-53efe9be7a8f#gs.3p7pel)
 * [IBM Skills Network - Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/records/879U6UTVLFKT)
 * [IBM Skills Network - Tools for Data Science](https://www.coursera.org/account/accomplishments/records/XJQNT5KXK8Q2)
 * [IBM Skills Network - Data Science Methodology](https://www.coursera.org/account/accomplishments/records/E6RJZKS2REBD)
